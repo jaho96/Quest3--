@@ -3,6 +3,7 @@
 DB 모델링을 기반으로 구현한 풀스택 영화 예매 웹 애플리케이션입니다.  
 TMDB API와 연동하여 실제 현재 상영작 데이터를 24시간마다 자동으로 갱신합니다.
 
+<img width="2960" height="2182" alt="영화 예매 사이트 모델링" src="https://github.com/user-attachments/assets/2574e7cb-6452-4bb9-a5ae-779f8a2c3fc5" />
 ---
 
 ## 기술 스택
